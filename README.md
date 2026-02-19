@@ -1,5 +1,4 @@
 # Functional relationships - review paper
-*Note: the paper has not been reviewed yet.*
 
 ## Introduction
 This repository contains the code used for the analyses and some of the figures in the corresponding publication. 
